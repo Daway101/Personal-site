@@ -1,0 +1,38 @@
+body{
+  background-color: #EAF6F6;
+
+}
+
+h1{
+  color: #219F94;
+
+}
+
+h2{
+  color: #219F94;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.email{
+  background-color: #EFEFEF;
+}
+
+.phone{
+  background-color: #EFEFEF;
+}
+
+img.email:hover{
+  background-color: #00B4D8;
+}
+
+img.phone:hover{
+  background-color: #00B4D8;
+}
