@@ -1,0 +1,19 @@
+# Personal-site
+
+## Deployment
+
+Deployed Website: https://daway101.github.io/Personal-site/
+
+## Built With
+
+  * HTML
+  * CSS
+
+## Authors
+
+- LinkedIn - [Dawa Tsering](https://www.linkedin.com/in/dawatsering/)
+
+## Acknowledgments
+
+  * The Complete 2020 Web Development Bootcamp by Angela Yu
+
